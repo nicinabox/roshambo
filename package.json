@@ -9,6 +9,7 @@
   "author": "Nic Aitch",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.0.3",
     "inquirer": "^0.8.0",
     "lodash": "^2.4.1"
   }
